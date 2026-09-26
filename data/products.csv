@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice,ReorderPoint,SupplierID,Warehouse,SupplierName
+P0001,SPOR-001,Sports,190.39,372.93,70,S05,Dammam,Metro Distributors
+P0002,HOME-002,Home & Kitchen,35.42,47.9,33,S03,Jeddah,Red Sea Trading
+P0003,BEAU-003,Beauty,194.13,397.81,47,S02,Dammam-2,Najd Logistics
+P0004,SPOR-004,Sports,40.76,64.15,31,S05,Dammam-2,Metro Distributors
+P0005,ELEC-005,Electronics,61.79,114.35,51,S04,Dammam-2,Eastern Parts Ltd
+P0006,OFFI-006,Office,22.67,42.09,64,S04,Dammam-2,Eastern Parts Ltd
+P0007,ELEC-007,Electronics,14.06,25.97,30,S01,Dammam,Gulf Supply Co
+P0008,HOME-008,Home & Kitchen,190.03,412.19,18,S02,Riyadh,Najd Logistics
+P0009,HOME-009,Home & Kitchen,138.43,234.8,53,S05,Dammam-2,Metro Distributors
+P0010,CLOT-010,Clothing,182.32,279.48,13,S02,Jeddah,Najd Logistics
+P0011,OFFI-011,Office,45.55,82.49,72,S02,Jeddah,Najd Logistics
+P0012,SPOR-012,Sports,188.2,396.23,23,S04,Riyadh,Eastern Parts Ltd
+P0013,OFFI-013,Office,68.44,112.91,62,S02,Riyadh,Najd Logistics
+P0014,SPOR-014,Sports,123.37,191.03,38,S05,Riyadh,Metro Distributors
+P0015,ELEC-015,Electronics,197.44,393.9,17,S03,Dammam,Red Sea Trading
+P0016,ELEC-016,Electronics,143.71,289.02,14,S02,Dammam,Najd Logistics
+P0017,HOME-017,Home & Kitchen,27.59,57.3,21,S02,Riyadh,Najd Logistics
+P0018,OFFI-018,Office,68.41,133.85,44,S01,Dammam,Gulf Supply Co
+P0019,BEAU-019,Beauty,194.48,401.41,14,S02,Dammam,Najd Logistics
+P0020,OFFI-020,Office,101.29,179.33,24,S02,Jeddah,Najd Logistics
+P0021,SPOR-021,Sports,26.04,34.59,61,S05,Dammam-2,Metro Distributors
+P0022,SPOR-022,Sports,181.98,277.4,24,S03,Riyadh,Red Sea Trading
+P0023,SPOR-023,Sports,188.86,347.31,37,S02,Jeddah,Najd Logistics
+P0024,BEAU-024,Beauty,62.65,87.39,37,S04,Dammam-2,Eastern Parts Ltd
+P0025,SPOR-025,Sports,86.22,180.63,71,S01,Riyadh,Gulf Supply Co
+P0026,ELEC-026,Electronics,131.3,170.75,12,S03,Riyadh,Red Sea Trading
+P0027,OFFI-027,Office,48.31,68.01,53,S03,Jeddah,Red Sea Trading
+P0028,ELEC-028,Electronics,83.75,113.77,67,S04,Dammam-2,Eastern Parts Ltd
+P0029,OFFI-029,Office,140.78,273.26,65,S01,Dammam,Gulf Supply Co
+P0030,ELEC-030,Electronics,195.44,326.37,10,S03,Jeddah,Red Sea Trading
+P0031,HOME-031,Home & Kitchen,108.53,184.83,79,S04,Dammam,Eastern Parts Ltd
+P0032,CLOT-032,Clothing,77.08,117.0,47,S05,Dammam-2,Metro Distributors
+P0033,HOME-033,Home & Kitchen,128.54,229.08,25,S01,Riyadh,Gulf Supply Co
+P0034,SPOR-034,Sports,104.1,200.52,12,S04,Dammam-2,Eastern Parts Ltd
+P0035,CLOT-035,Clothing,47.95,93.02,28,S04,Dammam-2,Eastern Parts Ltd
+P0036,SPOR-036,Sports,188.4,312.33,48,S02,Dammam-2,Najd Logistics
+P0037,ELEC-037,Electronics,136.76,268.28,59,S02,Dammam,Najd Logistics
+P0038,SPOR-038,Sports,39.12,85.44,69,S01,Jeddah,Gulf Supply Co
+P0039,ELEC-039,Electronics,23.16,48.81,46,S03,Dammam,Red Sea Trading
+P0040,ELEC-040,Electronics,59.38,114.62,12,S04,Dammam-2,Eastern Parts Ltd
+P0041,OFFI-041,Office,157.08,294.97,45,S04,Jeddah,Eastern Parts Ltd
+P0042,CLOT-042,Clothing,77.6,166.54,34,S05,Jeddah,Metro Distributors
+P0043,OFFI-043,Office,112.0,215.34,70,S01,Dammam-2,Gulf Supply Co
+P0044,ELEC-044,Electronics,8.52,14.86,57,S04,Dammam-2,Eastern Parts Ltd
+P0045,CLOT-045,Clothing,133.23,241.34,68,S03,Jeddah,Red Sea Trading
+P0046,OFFI-046,Office,52.58,114.4,60,S03,Dammam,Red Sea Trading
+P0047,HOME-047,Home & Kitchen,73.27,137.79,73,S01,Riyadh,Gulf Supply Co
+P0048,SPOR-048,Sports,145.88,226.51,44,S01,Dammam-2,Gulf Supply Co
+P0049,ELEC-049,Electronics,198.94,342.76,55,S05,Jeddah,Metro Distributors
+P0050,CLOT-050,Clothing,150.81,325.41,55,S05,Dammam,Metro Distributors
+P0051,CLOT-051,Clothing,196.16,268.31,41,S01,Dammam-2,Gulf Supply Co
+P0052,CLOT-052,Clothing,38.05,68.53,63,S02,Dammam,Najd Logistics
+P0053,OFFI-053,Office,23.95,44.39,32,S02,Dammam,Najd Logistics
+P0054,CLOT-054,Clothing,62.58,99.52,42,S01,Dammam,Gulf Supply Co
+P0055,OFFI-055,Office,75.1,117.47,35,S03,Jeddah,Red Sea Trading
+P0056,ELEC-056,Electronics,124.25,170.65,16,S01,Dammam-2,Gulf Supply Co
+P0057,BEAU-057,Beauty,42.88,58.48,25,S04,Dammam,Eastern Parts Ltd
+P0058,SPOR-058,Sports,117.88,199.76,72,S03,Riyadh,Red Sea Trading
+P0059,HOME-059,Home & Kitchen,110.82,172.65,67,S02,Jeddah,Najd Logistics
+P0060,ELEC-060,Electronics,12.28,25.06,63,S03,Dammam-2,Red Sea Trading
+P0061,BEAU-061,Beauty,106.84,212.93,14,S04,Jeddah,Eastern Parts Ltd
+P0062,BEAU-062,Beauty,42.9,71.65,64,S04,Dammam-2,Eastern Parts Ltd
+P0063,BEAU-063,Beauty,194.06,377.08,28,S01,Dammam-2,Gulf Supply Co
+P0064,CLOT-064,Clothing,90.6,124.18,71,S01,Dammam-2,Gulf Supply Co
+P0065,BEAU-065,Beauty,16.35,34.72,43,S01,Dammam-2,Gulf Supply Co
+P0066,BEAU-066,Beauty,59.59,128.68,73,S05,Jeddah,Metro Distributors
+P0067,BEAU-067,Beauty,86.82,132.22,25,S03,Riyadh,Red Sea Trading
+P0068,OFFI-068,Office,7.81,10.97,78,S01,Jeddah,Gulf Supply Co
+P0069,OFFI-069,Office,196.0,285.73,25,S02,Jeddah,Najd Logistics
+P0070,BEAU-070,Beauty,97.33,141.7,32,S02,Jeddah,Najd Logistics
+P0071,OFFI-071,Office,128.84,172.75,19,S02,Dammam,Najd Logistics
+P0072,HOME-072,Home & Kitchen,102.7,183.36,13,S02,Riyadh,Najd Logistics
+P0073,SPOR-073,Sports,119.23,255.89,33,S04,Jeddah,Eastern Parts Ltd
+P0074,CLOT-074,Clothing,130.44,223.37,60,S03,Riyadh,Red Sea Trading
+P0075,SPOR-075,Sports,80.29,173.83,52,S04,Riyadh,Eastern Parts Ltd
+P0076,BEAU-076,Beauty,46.84,76.8,44,S01,Jeddah,Gulf Supply Co
+P0077,BEAU-077,Beauty,169.75,224.23,43,S03,Riyadh,Red Sea Trading
+P0078,SPOR-078,Sports,140.11,226.07,38,S04,Riyadh,Eastern Parts Ltd
+P0079,BEAU-079,Beauty,193.68,347.3,33,S03,Riyadh,Red Sea Trading
+P0080,CLOT-080,Clothing,85.46,139.71,33,S05,Dammam-2,Metro Distributors
+P0081,ELEC-081,Electronics,137.57,270.45,39,S01,Riyadh,Gulf Supply Co
+P0082,OFFI-082,Office,101.83,168.09,22,S03,Dammam,Red Sea Trading
+P0083,ELEC-083,Electronics,15.43,33.37,28,S04,Riyadh,Eastern Parts Ltd
+P0084,SPOR-084,Sports,190.26,410.11,25,S05,Riyadh,Metro Distributors
+P0085,CLOT-085,Clothing,122.48,220.26,62,S01,Dammam,Gulf Supply Co
+P0086,BEAU-086,Beauty,186.53,406.04,23,S02,Riyadh,Najd Logistics
+P0087,CLOT-087,Clothing,178.1,287.78,27,S04,Riyadh,Eastern Parts Ltd
+P0088,HOME-088,Home & Kitchen,168.21,349.91,16,S05,Dammam-2,Metro Distributors
+P0089,HOME-089,Home & Kitchen,82.35,173.16,75,S05,Riyadh,Metro Distributors
+P0090,BEAU-090,Beauty,50.48,92.03,74,S04,Riyadh,Eastern Parts Ltd
+P0091,ELEC-091,Electronics,120.42,194.5,40,S03,Riyadh,Red Sea Trading
+P0092,SPOR-092,Sports,113.89,191.54,28,S03,Riyadh,Red Sea Trading
+P0093,BEAU-093,Beauty,84.01,152.42,29,S04,Dammam-2,Eastern Parts Ltd
+P0094,BEAU-094,Beauty,165.44,325.88,12,S05,Dammam-2,Metro Distributors
+P0095,OFFI-095,Office,83.04,143.65,34,S01,Jeddah,Gulf Supply Co
+P0096,BEAU-096,Beauty,192.83,252.79,41,S05,Riyadh,Metro Distributors
+P0097,BEAU-097,Beauty,13.46,28.7,45,S03,Dammam,Red Sea Trading
+P0098,SPOR-098,Sports,19.71,28.57,58,S01,Riyadh,Gulf Supply Co
+P0099,OFFI-099,Office,118.94,251.09,66,S03,Dammam-2,Red Sea Trading
+P0100,HOME-100,Home & Kitchen,190.33,399.93,33,S04,Riyadh,Eastern Parts Ltd
+P0101,HOME-101,Home & Kitchen,41.68,71.58,67,S04,Jeddah,Eastern Parts Ltd
+P0102,SPOR-102,Sports,20.16,43.89,73,S03,Jeddah,Red Sea Trading
+P0103,ELEC-103,Electronics,59.55,99.45,38,S05,Jeddah,Metro Distributors
+P0104,CLOT-104,Clothing,165.39,356.39,78,S01,Jeddah,Gulf Supply Co
+P0105,HOME-105,Home & Kitchen,186.88,388.61,14,S01,Jeddah,Gulf Supply Co
+P0106,ELEC-106,Electronics,98.67,215.77,20,S05,Jeddah,Metro Distributors
+P0107,ELEC-107,Electronics,194.13,399.5,42,S02,Riyadh,Najd Logistics
+P0108,CLOT-108,Clothing,31.1,40.81,64,S04,Riyadh,Eastern Parts Ltd
+P0109,BEAU-109,Beauty,199.94,439.26,62,S05,Riyadh,Metro Distributors
+P0110,BEAU-110,Beauty,152.63,250.32,10,S03,Riyadh,Red Sea Trading
+P0111,BEAU-111,Beauty,45.41,94.93,41,S02,Dammam-2,Najd Logistics
+P0112,HOME-112,Home & Kitchen,102.14,176.56,12,S03,Jeddah,Red Sea Trading
+P0113,SPOR-113,Sports,164.2,356.51,66,S01,Dammam-2,Gulf Supply Co
+P0114,BEAU-114,Beauty,125.96,243.57,60,S04,Jeddah,Eastern Parts Ltd
+P0115,OFFI-115,Office,123.58,231.46,60,S02,Dammam-2,Najd Logistics
+P0116,ELEC-116,Electronics,105.23,211.02,39,S02,Dammam,Najd Logistics
+P0117,ELEC-117,Electronics,190.16,272.38,65,S01,Jeddah,Gulf Supply Co
+P0118,ELEC-118,Electronics,55.36,94.84,43,S05,Jeddah,Metro Distributors
+P0119,BEAU-119,Beauty,45.78,83.4,32,S03,Jeddah,Red Sea Trading
+P0120,SPOR-120,Sports,40.47,65.2,76,S03,Dammam,Red Sea Trading
